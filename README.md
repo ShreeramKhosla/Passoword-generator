@@ -9,5 +9,6 @@ Javascript
 Resources
 The Frontend Developer Career Path
 
-Click here![image](https://github.com/user-attachments/assets/14f083bb-f7fd-46d8-838b-91b446812051)
+This project is deployed at the [link here.](https://takuyadev.github.io/password-generator-scrimba/)
+
 
